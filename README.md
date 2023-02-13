@@ -6,3 +6,6 @@ Commands used in this repository include:
 
 - `git log`
 - `git rebase`
+- `git reset`
+- `git revert`
+- `git commit --ammend`
